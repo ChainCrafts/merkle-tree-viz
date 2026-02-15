@@ -10,7 +10,7 @@ export function Header() {
                 </div>
                 <nav className="flex items-center gap-4">
                     <a
-                        href="https://github.com/google-deepmind/merkle-tree-viz"
+                        href="https://github.com/ChainCrafts/merkle-tree-viz"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-sm font-medium hover:underline text-muted-foreground hover:text-foreground"
